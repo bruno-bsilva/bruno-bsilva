@@ -12,7 +12,7 @@
 </div>
 <hr>
 <div>
-  <h2>Contacte me on </h1>
+  <h2>Contact me on </h1>
  <a href = "https://www.linkedin.com/in/brunobsilva25/" target = "_blank" ><img  height= 40px; width = 130px; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:bruno.silva2503@hotmail.com" target = "_blank" ><img  height= 40px; width = 190px; src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>  
