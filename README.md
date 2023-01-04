@@ -10,3 +10,10 @@
 <img  height= 90px; width = 90px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img  height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+<hr>
+<div>
+  <h2>contacte me on </h1>
+ <a href = "https://desktop.github.com/" target = "_blank" ><img  height= 40px; width = 100px; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></>
+ <img  height= 40px; width = 100px; src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  
+</div>  
