@@ -11,7 +11,6 @@
 <h2>I'm Learning </h2>
 <div style = "display: inline_block" >
 <img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
           
