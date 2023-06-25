@@ -3,15 +3,22 @@
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bsilva)](https://github.com/bruno-bsilva/github-readme-stats)<h2>Main Skills </h2>
 <div style = "display: inline_block">  
-<img  height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img  height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img  height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img  height= 90px; width = 90px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <hr>
 </div>
 <h2>I'm Learning </h2>
 <div style = "display: inline_block" >
 <img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<h2>I'm Interested </h2>
+<div style = "display: inline_block" >
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height= 85px; width = 85px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
           
           
 </div>
