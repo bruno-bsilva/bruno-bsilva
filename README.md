@@ -24,6 +24,6 @@
 <div>
   <h2>Contact me on </h1>
  <a href = "https://www.linkedin.com/in/brunobsilva25/" target = "_blank" ><img  height= 40px; width = 130px; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:bruno.silva2503@hotmail.com" target = "_blank" ><img  height= 40px; width = 60px; src="https://o.remove.bg/downloads/be750d8d-4195-4708-bc0a-e5224da49ed0/kisspng-microsoft-outlook-outlook-com-microsoft-corporatio-5b82dea2199712.5339411915353033301048-removebg-preview.png"></a>
+  <a href = "mailto:bruno.silva2503@hotmail.com" target = "_blank" ><img  height= 40px; width = 60px; src="https://download.logo.wine/logo/Outlook.com/Outlook.com-Logo.wine.png"></a>
 </div>  
 
